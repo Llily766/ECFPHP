@@ -1,28 +1,20 @@
-<div class="container-fluid">
-    <a class="navbar-brand" href="#">Arcadia</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04"
-        aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Arcadia</title>
 
-    <div class="collapse navbar-collapse" id="navbarsExample04">
-        <ul class="navbar-nav me-auto mb-2 mb-md-0">
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Accueil</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Services</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" aria-disabled="true">Connnexion</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
-                    aria-expanded="false">Contact</a>
-                
-            </li>
+</head>
+<body>
+    <div style="border: 1px solid black; width: 150px; padding: 10px;">
+        <h1>Arcadia</h1>
+        <ul class="navbar">
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Habitats</a></li>
+            <li><a href="#">Connexion</a></li>
+            <li><a href="#">Contact</a></li>
         </ul>
-        
-        
     </div>
-</div>
+</body>
+</html>
