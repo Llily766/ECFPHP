@@ -2,7 +2,7 @@
 
 <div id="text" style="display: block;">
 
-
+    <h4>La_jungle</h4>
     <p>Description de l'habitat de la la jungle:Forme de savane touffue (hautes herbes, broussailles, arbres) où vivent les grands fauves.
         Des grands animaux existent et cohabitent entre eux.</p>
 
@@ -69,9 +69,8 @@
                 Oryctérope du Cap.
                 Prenons l'exemple de la girafle :elle est caractérisé par
                 son prénom : Giraffon
-                sa race:Girafe du niger (mais beaucoup d'espèces existent)
-                son habitat : la Savane </p>
-            <img src=assets/Habitats/GIRAFE1.png>
+                sa race:Girafe du niger (mais beaucoup d'espèces existent)</p>
+            <img src=assets/Habitats/girafe.png>
             <p>un animal est caractérisé par
             Son prénom : la girafe 
             Race:Reine géante et majestueuse</p>

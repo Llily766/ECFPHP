@@ -7,21 +7,6 @@ body {
   }
 
   
-    body {
-        font-family: Arial, sans-serif;
-    }
-    .navbar {
-        list-style-type: none;
-        padding: 0;
-    }
-    .navbar li {
-        padding: 8px;
-        margin-bottom: 5px;
-    }
-    .navbar a {
-        text-decoration: none;
-        color: blue;
-    }
-    .navbar a:hover {
-        text-decoration: underline;
-    }
+  
+  
+  
